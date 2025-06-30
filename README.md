@@ -20,7 +20,7 @@ The program uses **Java console input/output** and runs in a loop until the user
 2. **Create a new Java Project**  
    `File → New → Java Project` → Name it as 'Task5'
 3. **Create a new class**  
-   Right-click s'rc' → `New → Class → Name it 'BankSystem' and check 'public static void main'
+   Right-click 'src' → `New → Class → Name it 'BankSystem' and check 'public static void main'
 4. **Write the code** into 'BankSystem.java'
 5. **Run the program**  
    Right-click the file → Run As → Java Application
